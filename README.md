@@ -4,3 +4,5 @@ These files are part of a graduate research project that focuses on developing a
 Included is an example of my json files. 
 
 TesnorFlow used: 1.15
+
+Research paper can be found here: https://www.linkedin.com/posts/alicja-mincewicz_level-of-violence-and-participation-during-activity-6665304828111052800-VCfG
